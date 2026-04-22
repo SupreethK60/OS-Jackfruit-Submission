@@ -6,7 +6,7 @@
 |------|-----|
 | Supreeth K | PES1UG24CS483 |
 | Shrihari Nagesh | PES1UG24CS445 |
-
+| Sujal T H | PES1UG24CS476 |
 ---
 
 ## Build, Load, and Run Instructions
